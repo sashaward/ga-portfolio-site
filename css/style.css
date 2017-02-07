@@ -1,0 +1,73 @@
+
+nav {
+  text-align: center;
+  border-bottom: 2px; color: #333;
+}
+
+#profilePic, #description {
+  display: inline-block;
+  width: 45%;
+}
+
+#profilePic {
+  vertical-align: top;
+}
+
+h1 {
+  color : #333;
+  font size: 24px;
+  font-family: 'Lora', serif;
+  margin-top: 40px;
+}
+
+body {
+  font-family: 'Source Sans Pro';
+  font-size: 15px;
+  line-height: 20px;
+  margin: 0px;
+  border-bottom: 2px solid #333;
+  border-top: 5px solid #333;
+  padding: 150px;
+  background: #F6F6F6;
+}
+
+h2 {
+  color : #333;
+  font-family: 'Source Sans Pro', serif;
+  font size: 20px;
+  line-height: 22px;
+  margin left : 100px;
+  text align: left;
+}
+
+h3 {
+  color : #333;
+  font size: 18px;
+  font-family: 'Source Sans Pro', serif;
+  line-height: 20px;
+  margin left : 100px;
+  text align: left;
+}
+
+h4 {
+  color : #333;
+  font size: 14px;
+  font-family: 'Source Sans Pro', serif;
+  text-transform: capitalize;
+  line-height: 16px;
+  margin left : 100px;
+}
+
+p {  color : #221234;
+  font size: 1em;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.8em;
+  margin left : 100px;
+}
+
+footer {
+  font size: 16px;
+  font-family: 'Source Sans Pro';
+  text-align: center;
+  padding-top: 20px;
+}
